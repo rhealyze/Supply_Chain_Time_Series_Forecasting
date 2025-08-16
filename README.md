@@ -2,10 +2,11 @@
 
 📂 Project Structure
 ├── README.md
-├── Walmart_Sales.ipynb        # Forecasting weekly sales at the store/chain level
+├── Walmart_Sales.ipynb              # Forecasting weekly sales at the store/chain level
 ├── Vegetable_Price_Dataset.ipynb    # Forecasting SKU demand under price increases
 
-📌 Project 1: Walmart Sales Forecasting (walmart_sales_forecasting.ipynb)
+
+📌 Project 1: Walmart Sales Forecasting (Walmart_Sales.ipynb)
 
 Objective: Forecast weekly sales to support inventory and staffing decisions.
 
@@ -21,7 +22,7 @@ Benchmarked with XGBoost Regressor + hyperparameter tuning (RandomizedSearchCV)
 
 Evaluated using MAE, RMSE, Bias
 
-📌 Project 2: SKU Price Increase Forecasting (walmart_sku_price_forecasting.ipynb)
+📌 Project 2: SKU Price Increase Forecasting (Vegetable_Price_Dataset.ipynb)
 
 Objective: Forecast the effect of price changes on SKU-level demand to inform pricing strategy.
 
