@@ -1,9 +1,9 @@
 🛒 Time Series Forecasting
 
 📂 Project Structure
-├── README.md
-├── Walmart_Sales.ipynb              # Forecasting weekly sales at the store/chain level
-├── Vegetable_Price_Dataset.ipynb    # Forecasting SKU demand under price increases
+├── README.md  
+├── Walmart_Sales.ipynb              # Forecasting weekly sales at the store/chain level  
+├── Vegetable_Price_Dataset.ipynb    # Forecasting SKU demand under price increases  
 
 
 📌 Project 1: Walmart Sales Forecasting (Walmart_Sales.ipynb)
