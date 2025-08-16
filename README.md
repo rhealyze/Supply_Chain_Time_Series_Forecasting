@@ -12,15 +12,15 @@ Objective: Forecast weekly sales to support inventory and staffing decisions.
 
 Highlights:
 
-Applied outlier detection (Winsorizing & 3σ clipping) to stabilize noisy sales data
+- Applied outlier detection (Winsorizing & 3σ clipping) to stabilize noisy sales data
 
-Explored trends & seasonality using moving averages & decomposition
+- Explored trends & seasonality using moving averages & decomposition
 
-Forecasted sales with Exponential Smoothing, Holt’s Linear Trend, Holt-Winters Seasonal
+- Forecasted sales with Exponential Smoothing, Holt’s Linear Trend, Holt-Winters Seasonal
 
-Benchmarked with XGBoost Regressor + hyperparameter tuning (RandomizedSearchCV)
+- Benchmarked with XGBoost Regressor + hyperparameter tuning (RandomizedSearchCV)
 
-Evaluated using MAE, RMSE, Bias
+- Evaluated using MAE, RMSE, Bias
 
 📌 Project 2: SKU Price Increase Forecasting (Vegetable_Price_Dataset.ipynb)
 
@@ -28,27 +28,27 @@ Objective: Forecast the effect of price changes on SKU-level demand to inform pr
 
 Highlights:
 
-Engineered features capturing historical price, promotions, and demand elasticity
+- Engineered features capturing historical price, promotions, and demand elasticity
 
-Applied regression & tree-based models (XGBoost) to predict demand under new prices
+- Applied regression & tree-based models (XGBoost) to predict demand under new prices
 
-Used cross-validation to ensure robust forecasts
+- Used cross-validation to ensure robust forecasts
 
-Delivered insights into price sensitivity and optimal pricing strategies
+- Delivered insights into price sensitivity and optimal pricing strategies
 
-Generated SKU-level forecast plots for different price increase scenarios
+- Generated SKU-level forecast plots for different price increase scenarios
 
 ⚙️ Technical Skills Demonstrated
 
-Time Series Analysis & Forecasting
+- Time Series Analysis & Forecasting
 
-Feature Engineering for Price Elasticity Modeling
+- Feature Engineering for Price Elasticity Modeling
 
-Machine Learning with XGBoost (RandomizedSearchCV, hyperparameter tuning)
+- Machine Learning with XGBoost (RandomizedSearchCV, hyperparameter tuning)
 
-Evaluation Metrics: MAE, RMSE, Bias
+- Evaluation Metrics: MAE, RMSE, Bias
 
-Visualization: Forecast & price-demand response curves
+- Visualization: Forecast & price-demand response curves
 
 🛠️ Tech Stack
 
